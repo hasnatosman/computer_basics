@@ -1,0 +1,13 @@
+WINKEY shortcuts:
+WINKEY + D -- Bring desktop to the top of other windows.
+WINKEY + M -- Minimize all windows.
+WINKEY + SHIFT + M -- Undo the minimize done by WINKEY + M and WINKEY + D.
+WINKEY + E -- Open Microsoft Explorer.
+WINKEY + Tab -- Cycle through open programs on the taskbar.
+WINKEY + F -- Display the Windows Search/Find feature.
+WINKEY + CTRL + F -- Display the search for computers window.
+WINKEY + F1 -- Display the Microsoft Windows help.
+WINKEY + R -- Open the run window.
+WINKEY + Pause /Break -- Open the system properties window.
+WINKEY + U -- Open utility manager.
+WINKEY + L -- Lock the computer (Windows XP & later).
