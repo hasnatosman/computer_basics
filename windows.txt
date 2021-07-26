@@ -1,0 +1,19 @@
+Microsoft Windows shortcut keys list
+Alt + Tab -- Switch between open applications.
+Alt + Shift + Tab -- Switch backward between open applications.
+Alt + Print Screen -- Create screenshot for the current program.
+Ctrl + Alt + Del -- Reboot/Windows task manager.
+Ctrl + Esc -- Bring up the start menu.
+Alt + Esc -- Switch between applications on the taskbar.
+F2 -- Rename selected icon.
+F3 -- Start find from the desktop.
+F4 -- Open the drive selection when browsing.
+F5 -- Refresh contents.
+Alt + F4 -- Close current open program.
+Ctrl + F4 -- Close window in program.
+Ctrl + Plus Key-- Automatically adjust widths of all columns in Windows Explorer.
+Alt + Enter -- Open properties window of selected icon or program.
+Shift + F10 -- Simulate right-click on selected item.
+Shift + Del -- Delete programs/files permanently.
+Holding Shift During Boot up -- Boot safe mode or bypass system files.
+Holding Shift During Boot up -- When putting in an audio CD, will prevent CD Player from playing.
