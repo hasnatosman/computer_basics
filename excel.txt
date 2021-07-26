@@ -1,0 +1,45 @@
+Excel shortcut keys
+F2 -- Edit the selected cell.
+F5 -- Go to a specific cell.
+F7 -- Spell check selected text and/or document.
+F11 -- Create chart
+Ctrl + Shift + ; -- Enter the current time.
+Ctrl + ; -- Enter the current date
+Alt + Shift + F1 -- Insert new worksheet.
+Shift + F3 -- Open the Excel formula window.
+Shift + F5 -- Bring up the search box
+Ctrl + A -- Select all contents of a worksheet.
+Ctrl + B -- Bold highlighted selection.
+Ctrl + I -- Italicize highlighted selection.
+Ctrl + C -- Copy selected text.
+Ctrl + V -- Paste
+Ctrl + D -- Fill
+Ctrl + K -- Insert link
+Ctrl + F -- Open find and replace options.
+Ctrl + G -- Open go-to options.
+Ctrl + H -- Open find and replace options.
+Ctrl + U -- Underline highlighted selection.
+Ctrl + Y -- Underline selected text.
+Ctrl + 5 -- Strikethrough highlighted selection.
+Ctrl + O -- Open options.
+Ctrl + N -- Open new document.
+Ctrl + P -- Open print dialog box.
+Ctrl + S -- Save.
+Ctrl + Z -- Undo last action.
+Ctrl + F9 -- Minimize current window.
+Ctrl + F10 -- Maximize currently selected window.
+Ctrl + F6 -- Switch between open workbooks/windows.
+Ctrl + Page up & Page Down -- Move between Excel worksheets in the same document.
+Ctrl + Tab -- Move between two or more open Excel files
+Alt + = -- Create the formula to sum all of the above cells.
+Ctrl + -- Insert the value of above cell into the current cell.
+Ctrl + Shift + ! -- Format number in comma format.
+Ctrl + Shift + $ -- Format number in currency format.
+Ctrl + Shift + # -- Format number in date format.
+Ctrl + Shift + % -- Format number in percentage format.
+Ctrl + Shift + ^ -- Format number in scientific format.
+Ctrl + Shift + @ -- Format number in time format.
+Ctrl + (Right arrow) -- Move to next section of text.
+Ctrl + Space -- Select entire column.
+Shift + Space -- Select entire row.
+Ctrl + W -- Close document.
